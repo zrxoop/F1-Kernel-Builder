@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU-Proton-release",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "repo": "https://github.com/zrxoop/Xiaomi_Kernel_OpenSource.git",
+      "branch": "xaga-s-oss",
+      "device": "xaga",
+      "defconfig": "xaga_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
